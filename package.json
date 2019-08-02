@@ -1,0 +1,19 @@
+{
+  "name": "choose",
+  "version": "0.0.1",
+  "description": "an app to help people find things to do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankmalafronte/cyoaIRL.git"
+  },
+  "author": "Frank Malafronte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankmalafronte/cyoaIRL/issues"
+  },
+  "homepage": "https://github.com/frankmalafronte/cyoaIRL#readme"
+}
